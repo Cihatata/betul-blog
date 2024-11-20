@@ -1,0 +1,24 @@
+{
+  "menu": [
+    {
+      "title": "Ana Sayfa",
+      "path": "/"
+    },
+    {
+      "title": "Blog",
+      "path": "/blog"
+    },
+    {
+      "title": "Galeri",
+      "path": "/galeri"
+    },
+    {
+      "title": "Kediler",
+      "path": "/kediler"
+    },
+    {
+      "title": "Kitaplarım",
+      "path": "/kitaplarim"
+    }
+  ]
+} 

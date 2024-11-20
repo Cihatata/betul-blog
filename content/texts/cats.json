@@ -1,0 +1,11 @@
+{
+  "title": "Sokaktaki Kediler",
+  "description": "Kediler, insanın en sadık ve en saf dostlarıdır. Onların masum bakışları, tatlı miyavlamaları ve koşulsuz sevgileri ruhumuza şifa verir. Her kedinin kendine has bir karakteri, bir hikayesi vardır. Onlarla paylaştığımız her an, hayatımıza kattıkları renk ve neşe paha biçilemez...",
+  "emoji": "🐱",
+  "sections": {
+    "recentCats": {
+      "title": "Kediler",
+      "viewAll": "Tüm kedileri gör →"
+    }
+  }
+} 

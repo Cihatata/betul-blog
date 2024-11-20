@@ -1,0 +1,95 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary: #ff6b35;
+  --primary-light: #ff8c61;
+  --background: #ffffff;
+  --text: #2d2d2d;
+}
+
+body {
+  background-color: var(--background);
+  color: var(--text);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@layer components {
+  .container-custom {
+    @apply max-w-4xl mx-auto px-4;
+  }
+  
+  .heading {
+    @apply text-3xl font-medium text-primary mb-6;
+  }
+  
+  .link-hover {
+    @apply transition-colors hover:text-primary;
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(1rem);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.prose {
+  @apply max-w-none;
+}
+
+.prose a {
+  @apply text-primary hover:text-primary-light no-underline;
+}
+
+.prose p {
+  @apply text-gray-600 leading-relaxed;
+}
+
+/* Font ayarları */
+h1, h2, h3, h4, h5, h6 {
+  @apply tracking-tight;
+}
+
+@layer utilities {
+  .aspect-w-4 {
+    position: relative;
+    padding-bottom: calc(var(--tw-aspect-h) / var(--tw-aspect-w) * 100%);
+    --tw-aspect-w: 4;
+  }
+  .aspect-h-3 {
+    --tw-aspect-h: 3;
+  }
+  .aspect-w-3 {
+    position: relative;
+    padding-bottom: calc(var(--tw-aspect-h) / var(--tw-aspect-w) * 100%);
+    --tw-aspect-w: 3;
+  }
+  .aspect-h-4 {
+    --tw-aspect-h: 4;
+  }
+  .aspect-w-1 {
+    position: relative;
+    padding-bottom: calc(var(--tw-aspect-h) / var(--tw-aspect-w) * 100%);
+    --tw-aspect-w: 1;
+  }
+  .aspect-h-1 {
+    --tw-aspect-h: 1;
+  }
+} 
+
+@keyframes tailWag {
+  0%, 100% {
+    d: path("M20 45 Q 10 35 15 25");
+  }
+  50% {
+    d: path("M20 45 Q 30 35 25 25");
+  }
+} 

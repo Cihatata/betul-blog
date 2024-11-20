@@ -1,0 +1,25 @@
+{
+  "profile": {
+    "name": "Betül Öğretmen",
+    "title": "Yabancılara Türkçe Öğretmeni",
+    "bio": [
+      "Merhaba! Ben Betül. 5 yıldır yabancılara Türkçe öğretmenliği yapıyorum. Şu anda İstanbul Üniversitesi'nde Yabancılara Türkçe Öğretimi alanında yüksek lisans yapıyorum.",
+      "Bu blog, Türkçe öğrenen öğrencilerime ve Türkçe öğretmeni arkadaşlarıma yardımcı olmak amacıyla kuruldu. Burada dil öğrenimi, kültür aktarımı ve modern öğretim teknikleri hakkında yazılar paylaşıyorum.",
+      "Ayrıca Türkiye'nin farklı şehirlerinden kültürel ve tarihi mekanların fotoğraflarını çekiyor, öğrencilerimle dil ve kültür gezileri düzenliyorum."
+    ]
+  },
+  "sections": {
+    "recentPosts": {
+      "title": "Son Yazılar",
+      "viewAll": "Tüm yazıları gör →"
+    },
+    "recentPhotos": {
+      "title": "Fotoğraflarım",
+      "viewAll": "Tümünü Gör →"
+    }
+  },
+  "social": {
+    "instagram": "Instagram",
+    "email": "E-posta"
+  }
+} 

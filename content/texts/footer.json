@@ -1,0 +1,17 @@
+{
+  "copyright": "© {year} Türkçe Öğreniyorum. Tüm hakları saklıdır.",
+  "links": [
+    {
+      "title": "Blog",
+      "path": "/blog"
+    },
+    {
+      "title": "Galeri",
+      "path": "/galeri"
+    },
+    {
+      "title": "Hakkımda",
+      "path": "/hakkimda"
+    }
+  ]
+} 
