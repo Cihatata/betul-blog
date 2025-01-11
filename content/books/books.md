@@ -21,3 +21,11 @@ books:
     finishDate: "2023-12-30"
     note: "Çocukluğun masumiyetini ve hayatın acı gerçeklerini muhteşem bir dille harmanlayan, unutulmaz bir eser."
 --- 
+
+  - title: "Ankara"
+    author: "Yakup Kadri"
+    cover: "/books/seker-portakali.jpg"
+    rating: 5
+    finishDate: "2024-12-30"
+    note: "Cumhuriyetin ilk yillari hakkinda guzel bir kitap."
+--- 
