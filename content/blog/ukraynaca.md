@@ -1,6 +1,5 @@
-
 ---
-title: "UKRAYNACA"
+title: "Türkiye'nin Sokak Kedileri: Bir Kültür Öğesi 2222"
 date: '2024-03-21'
 author: 'Betül Öğretmen'
 description: 'Türk kültüründe kedilerin yeri ve önemi üzerine bir inceleme'
