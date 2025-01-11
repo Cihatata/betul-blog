@@ -20,7 +20,6 @@ books:
     rating: 4
     finishDate: "2023-12-30"
     note: "Çocukluğun masumiyetini ve hayatın acı gerçeklerini muhteşem bir dille harmanlayan, unutulmaz bir eser."
---- 
 
   - title: "Ankara"
     author: "Yakup Kadri"
