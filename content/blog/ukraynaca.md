@@ -1,11 +1,11 @@
 
 ---
-title: 'Ukraynaca ogretiyorun'
-date: '2024-03-20'
-author: 'Betül/Olena'
-description: 'Yabancı dil olarak Türkçe öğrenirken dikkat edilmesi gereken önemli noktalar ksdjdks jk skjd kjsdjsd jskdjskjkjsd'
-tags: ['ukraynaca', 'dil eğitimi', 'yabancı dil']
-coverImage: '/images/turkce1.png'
+title: "UKRAYNACA"
+date: '2024-03-21'
+author: 'Betül Öğretmen'
+description: 'Türk kültüründe kedilerin yeri ve önemi üzerine bir inceleme'
+tags: ['kültür', 'kediler', 'istanbul', 'türk kültürü']
+coverImage: '/images/kedi-1.png'
 ---
 
 # UKRAYNACA
