@@ -53,5 +53,11 @@ export const catImages: CatImage[] = [
     src: '/cats/cat8.jpg',
     alt: 'Galata Kedisi',
     description: 'Galata Kulesi\'nin eteklerinde turistlerle fotoğraf çektiren sosyetik kedi.'
+  },
+  {
+    id: 9,
+    src: '/cats/hama.png',
+    alt: 'hama',
+    description: 'hama'nin eteklerinde turistlerle fotoğraf çektiren sosyetik kedi.'
   }
 ] 
