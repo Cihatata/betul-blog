@@ -30,7 +30,7 @@ books:
 
   - title: "Mutlu Olma Sanatı"
     author: "xxx"
-    cover: "/books/seker-portakali.jpg"
+    cover: "/books/mutlu-olma-sanati.jpeg"
     rating: 4
     finishDate: "2025-01-12"
     note: "meh."
