@@ -28,7 +28,7 @@ books:
     finishDate: "2024-12-30"
     note: "Cumhuriyetin ilk yillari hakkinda guzel bir kitap."
 
- - title: "Mutlu Olma Sanatı"
+  - title: "Mutlu Olma Sanatı"
     author: "xxx"
     cover: "/books/seker-portakali.jpg"
     rating: 4
