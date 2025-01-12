@@ -58,6 +58,6 @@ export const catImages: CatImage[] = [
     id: 9,
     src: '/cats/hama.png',
     alt: 'hama',
-    description: 'hama'nin eteklerinde turistlerle fotoğraf çektiren sosyetik kedi.'
+    description: 'hamanin eteklerinde turistlerle fotoğraf çektiren sosyetik kedi.'
   }
 ] 
